@@ -1,0 +1,47 @@
+# Python caches and test/tool state
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit local secrets
+.streamlit/secrets.toml
+.streamlit/secrets/
+
+# Runtime-generated input and analysis artifacts
+data/raw_poll_responses.csv
+outputs/*
+!outputs/.gitkeep
+!outputs/README.md
+# Root chart PNGs are curated portfolio assets used by README.md.
+
+# Temporary local or CI output
+.ci-output/
+ci-output/
+.tmp/
+tmp/
+
+# Keep placeholders and curated directories trackable
+!data/.gitkeep
+!data/README.md
+!images/.gitkeep
+!images/README.md
+!images/screenshots/
+!images/screenshots/.gitkeep
+!notebooks/.gitkeep
