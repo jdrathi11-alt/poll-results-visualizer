@@ -1,0 +1,501 @@
+response_id,response_date,question,option,region,age_group,gender,satisfaction_score
+R000001,2024-01-24,Best Study Time,Morning,West,18-24,Male,4.7
+R000002,2024-01-05,Campus Event Interest,Not interested,Central,25-34,Prefer not to say,4.7
+R000003,2024-03-16,Best Study Time,Evening,Central,18-24,Female,6.0
+R000004,2024-03-22,Campus Event Interest,Somewhat interested,East,18-24,Female,7.1
+R000005,2024-04-02,Preferred Study Format,Online,East,25-34,Male,6.3
+R000006,2024-04-24,Best Study Time,Afternoon,West,18-24,Male,5.7
+R000007,2024-02-29,Best Study Time,Morning,South,45+,Male,5.4
+R000008,2024-04-09,Best Study Time,Morning,Central,18-24,Female,7.1
+R000009,2024-03-26,Preferred Study Format,Online,East,35-44,Female,6.2
+R000010,2024-02-03,Campus Event Interest,Somewhat interested,North,25-34,Male,4.0
+R000011,2024-04-11,Preferred Study Format,In-person,North,25-34,Female,6.5
+R000012,2024-01-07,Best Study Time,Evening,Central,25-34,Female,7.0
+R000013,2024-03-12,Campus Event Interest,Somewhat interested,North,25-34,Male,5.5
+R000014,2024-04-22,Best Study Time,Evening,South,45+,Male,6.6
+R000015,2024-03-20,Campus Event Interest,Very interested,South,18-24,Male,6.7
+R000016,2024-04-22,Preferred Study Format,In-person,North,18-24,Female,5.5
+R000017,2024-01-07,Campus Event Interest,Somewhat interested,South,25-34,Female,7.3
+R000018,2024-03-04,Preferred Study Format,In-person,West,35-44,Non-binary,6.9
+R000019,2024-04-03,Best Study Time,Afternoon,North,18-24,Female,6.1
+R000020,2024-03-18,Campus Event Interest,Not interested,Central,25-34,Female,5.4
+R000021,2024-04-15,Best Study Time,Evening,Central,45+,Female,5.5
+R000022,2024-02-25,Preferred Study Format,Hybrid,South,35-44,Male,5.4
+R000023,2024-03-22,Best Study Time,Evening,North,45+,,6.4
+R000024,2024-02-20,Best Study Time,Afternoon,West,25-34,Male,6.2
+R000025,2024-04-14,Best Study Time,Afternoon,North,25-34,Male,6.3
+R000026,2024-01-15,Preferred Study Format,Hybrid,South,18-24,Female,7.5
+R000027,2024-01-31,Campus Event Interest,Very interested,Central,45+,Female,7.5
+R000028,2024-01-12,Preferred Study Format,In-person,Central,18-24,Male,4.7
+R000029,2024-03-25,Preferred Study Format,In-person,West,35-44,Female,7.7
+R000030,2024-01-28,Campus Event Interest,Very interested,South,25-34,Female,
+R000031,2024-02-08,Best Study Time,Morning,West,25-34,Female,7.1
+R000032,2024-04-10,Best Study Time,Morning,West,35-44,Female,6.2
+R000033,2024-02-13,Preferred Study Format,Online,South,25-34,Male,6.1
+R000034,2024-01-18,Preferred Study Format,Online,West,45+,Male,5.5
+R000035,2024-01-03,Campus Event Interest,Not interested,North,25-34,Female,6.0
+R000036,2024-01-28,Preferred Study Format,Hybrid,South,25-34,Male,7.2
+R000037,2024-04-19,Preferred Study Format,Hybrid,East,18-24,Male,5.1
+R000038,2024-03-06,Campus Event Interest,Somewhat interested,North,25-34,Male,
+R000039,2024-04-29,Preferred Study Format,In-person,North,25-34,Male,6.0
+R000040,2024-01-26,Campus Event Interest,Somewhat interested,Central,18-24,Female,7.6
+R000041,2024-02-12,Campus Event Interest,Somewhat interested,Central,18-24,Male,6.8
+R000042,2024-01-20,Best Study Time,Evening,East,25-34,Female,
+R000043,2024-02-17,Campus Event Interest,Somewhat interested,Central,25-34,Female,6.1
+R000044,2024-03-08,Preferred Study Format,In-person,Central,25-34,Female,8.6
+R000045,2024-04-06,Best Study Time,Morning,North,18-24,Female,5.9
+R000046,2024-02-14,Best Study Time,Afternoon,East,18-24,Female,5.4
+R000047,2024-04-02,Preferred Study Format,In-person,South,18-24,Female,5.6
+R000048,2024-03-16,Preferred Study Format,Online,North,35-44,Male,7.3
+R000049,2024-02-05,Campus Event Interest,Very interested,West,45+,Female,7.2
+R000050,2024-04-19,Preferred Study Format,Online,East,18-24,Female,6.1
+R000051,2024-02-22,Preferred Study Format,Online,East,25-34,Female,5.8
+R000052,2024-01-19,Preferred Study Format,In-person,North,18-24,,6.4
+R000053,2024-04-25,Best Study Time,Evening,North,18-24,Female,6.1
+R000054,2024-04-19,Campus Event Interest,Somewhat interested,Central,18-24,Female,6.7
+R000055,2024-01-06,Campus Event Interest,Very interested,North,18-24,Female,6.6
+R000056,2024-04-18,Best Study Time,Afternoon,South,25-34,Male,5.7
+R000057,2024-04-23,Campus Event Interest,Somewhat interested,South,45+,Non-binary,7.2
+R000058,2024-04-09,Campus Event Interest,Somewhat interested,East,18-24,Male,5.4
+R000059,2024-01-31,Preferred Study Format,Hybrid,East,25-34,Male,6.7
+R000060,2024-03-16,Preferred Study Format,Online,East,35-44,Male,4.7
+R000061,2024-03-05,Campus Event Interest,Very interested,North,45+,Prefer not to say,
+R000062,2024-03-15,Campus Event Interest,Very interested,South,25-34,Male,6.3
+R000063,2024-03-14,Campus Event Interest,Somewhat interested,Central,18-24,Male,5.7
+R000064,2024-03-17,Best Study Time,Morning,West,25-34,Male,6.0
+R000065,2024-03-02,Campus Event Interest,Very interested,West,18-24,Male,7.5
+R000066,2024-03-23,Campus Event Interest,Somewhat interested,West,45+,Female,7.4
+R000067,2024-03-04,Campus Event Interest,Very interested,West,18-24,Female,7.1
+R000068,2024-01-02,Preferred Study Format,Hybrid,North,35-44,Female,5.9
+R000069,2024-01-05,Preferred Study Format,In-person,South,18-24,Male,6.1
+R000070,2024-04-24,Campus Event Interest,Not interested,East,25-34,Male,7.3
+R000071,2024-04-19,Preferred Study Format,Online,South,45+,Female,8.4
+R000072,2024-03-11,Preferred Study Format,In-person,Central,25-34,Male,7.2
+R000073,2024-01-21,Best Study Time,Morning,East,25-34,Male,5.5
+R000074,2024-04-03,Preferred Study Format,In-person,West,45+,Male,6.7
+R000075,2024-01-18,Preferred Study Format,Hybrid,Central,35-44,Female,
+R000076,2024-02-15,Preferred Study Format,Hybrid,East,18-24,Female,6.6
+R000077,2024-02-09,Preferred Study Format,Online,Central,25-34,Male,7.0
+R000078,2024-01-02,Campus Event Interest,Very interested,East,25-34,Male,7.4
+R000079,2024-04-06,Campus Event Interest,Somewhat interested,Central,25-34,Prefer not to say,5.4
+R000080,2024-03-02,Best Study Time,Morning,South,18-24,Male,5.5
+R000081,2024-02-07,Campus Event Interest,Somewhat interested,East,18-24,Male,7.1
+R000082,2024-03-01,Preferred Study Format,In-person,East,45+,Female,7.9
+R000083,2024-01-01,Best Study Time,Evening,North,45+,Female,7.0
+R000084,2024-02-22,Preferred Study Format,Hybrid,South,35-44,Female,7.9
+R000085,2024-03-03,Preferred Study Format,In-person,Central,45+,Male,6.7
+R000086,2024-02-10,Preferred Study Format,Hybrid,West,35-44,Non-binary,6.1
+R000087,2024-04-09,Best Study Time,Afternoon,North,35-44,Female,7.1
+R000088,2024-01-30,Campus Event Interest,Somewhat interested,South,35-44,Male,8.9
+R000089,2024-01-17,Preferred Study Format,Online,North,25-34,Female,5.2
+R000090,2024-03-04,Campus Event Interest,Very interested,North,25-34,Female,8.2
+R000091,2024-04-16,Preferred Study Format,Hybrid,Central,18-24,Female,6.9
+R000092,2024-02-15,Campus Event Interest,Somewhat interested,East,25-34,Female,5.8
+R000093,2024-01-06,Campus Event Interest,Very interested,South,18-24,Non-binary,4.9
+R000094,2024-04-26,Preferred Study Format,In-person,East,18-24,Female,4.4
+R000095,2024-02-23,Preferred Study Format,In-person,North,25-34,Male,6.1
+R000096,2024-01-21,Campus Event Interest,Very interested,South,25-34,Male,7.0
+R000097,2024-03-14,Preferred Study Format,Online,West,18-24,Female,7.0
+R000098,2024-02-08,Preferred Study Format,Hybrid,West,35-44,Female,7.8
+R000099,2024-04-22,Preferred Study Format,Hybrid,Central,45+,Male,
+R000100,2024-02-05,Best Study Time,Evening,West,18-24,Female,6.7
+R000101,2024-03-07,Best Study Time,Evening,East,18-24,Male,6.1
+R000102,2024-03-06,Campus Event Interest,Very interested,West,18-24,Female,7.2
+R000103,2024-01-30,Preferred Study Format,In-person,Central,35-44,Male,5.9
+R000104,2024-02-29,Best Study Time,Evening,West,35-44,Male,5.7
+R000105,2024-01-14,Best Study Time,Afternoon,Central,18-24,Female,6.3
+R000106,2024-03-18,Campus Event Interest,Somewhat interested,West,35-44,Female,7.3
+R000107,2024-03-31,Campus Event Interest,Very interested,Central,18-24,Prefer not to say,5.4
+R000108,2024-04-24,Preferred Study Format,In-person,North,18-24,Female,6.0
+R000109,2024-02-09,Preferred Study Format,Online,West,45+,Female,6.6
+R000110,2024-02-04,Best Study Time,Evening,East,18-24,Female,6.4
+R000111,2024-03-06,Campus Event Interest,Somewhat interested,East,18-24,Female,6.7
+R000112,2024-03-24,Preferred Study Format,Hybrid,West,25-34,Male,8.4
+R000113,2024-04-29,Preferred Study Format,Hybrid,Central,25-34,Male,4.6
+R000114,2024-01-04,Campus Event Interest,Very interested,Central,45+,Female,
+R000115,2024-01-29,Preferred Study Format,Online,South,45+,,7.8
+R000116,2024-02-01,Best Study Time,Morning,West,18-24,Female,
+R000117,2024-01-31,Best Study Time,Afternoon,West,18-24,Female,6.6
+R000118,2024-02-25,Campus Event Interest,Somewhat interested,South,35-44,Male,5.8
+R000119,2024-04-14,Campus Event Interest,Somewhat interested,North,18-24,Prefer not to say,7.1
+R000120,2024-01-04,Campus Event Interest,Somewhat interested,North,45+,Female,6.9
+R000121,2024-04-07,Campus Event Interest,Somewhat interested,West,25-34,Female,6.2
+R000122,2024-03-15,Campus Event Interest,Very interested,East,18-24,Male,7.4
+R000123,2024-03-14,Preferred Study Format,In-person,Central,35-44,Male,
+R000124,2024-03-22,Preferred Study Format,Online,East,18-24,Female,3.8
+R000125,2024-01-14,Preferred Study Format,Hybrid,Central,25-34,Female,7.7
+R000126,2024-03-30,Campus Event Interest,Somewhat interested,East,25-34,Male,5.7
+R000127,2024-01-30,Preferred Study Format,In-person,West,25-34,Female,7.7
+R000128,2024-03-02,Preferred Study Format,Hybrid,North,35-44,Female,6.6
+R000129,2024-03-22,Preferred Study Format,Hybrid,East,25-34,Female,6.8
+R000130,2024-03-13,Campus Event Interest,Somewhat interested,West,45+,Female,7.1
+R000131,2024-02-08,Preferred Study Format,Hybrid,Central,45+,Male,7.7
+R000132,2024-02-17,Best Study Time,Morning,Central,25-34,Male,6.8
+R000133,2024-02-27,Campus Event Interest,Very interested,North,18-24,Male,6.5
+R000134,2024-01-05,Preferred Study Format,Hybrid,South,35-44,Male,4.7
+R000135,2024-03-28,Campus Event Interest,Somewhat interested,North,45+,Prefer not to say,7.1
+R000136,2024-01-12,Preferred Study Format,In-person,North,18-24,Female,6.6
+R000137,2024-02-25,Best Study Time,Evening,West,25-34,Female,5.6
+R000138,2024-03-19,Campus Event Interest,Somewhat interested,West,25-34,Non-binary,6.8
+R000139,2024-01-10,Best Study Time,Morning,West,18-24,Female,6.4
+R000140,2024-04-29,Preferred Study Format,In-person,Central,25-34,Male,7.5
+R000141,2024-02-15,Campus Event Interest,Somewhat interested,West,18-24,Male,8.1
+R000142,2024-01-02,Campus Event Interest,Very interested,West,35-44,Female,7.9
+R000143,2024-03-20,Best Study Time,Afternoon,North,35-44,Female,6.6
+R000144,2024-03-07,Campus Event Interest,Not interested,South,35-44,Female,5.7
+R000145,2024-03-17,Campus Event Interest,Somewhat interested,West,25-34,Female,5.8
+R000146,2024-03-31,Preferred Study Format,Online,Central,18-24,Female,5.5
+R000147,2024-02-27,Preferred Study Format,In-person,North,35-44,Female,6.6
+R000148,2024-04-09,Campus Event Interest,Very interested,East,35-44,Male,6.7
+R000149,2024-02-14,Campus Event Interest,Somewhat interested,West,25-34,Male,5.4
+R000150,2024-03-06,Preferred Study Format,In-person,North,45+,Male,8.0
+R000151,2024-01-20,Best Study Time,Morning,South,18-24,Female,7.4
+R000152,2024-03-15,Best Study Time,Afternoon,Central,45+,Female,7.7
+R000153,2024-02-01,Preferred Study Format,Online,West,18-24,Female,7.6
+R000154,2024-03-24,Campus Event Interest,Not interested,South,18-24,Female,7.4
+R000155,2024-04-06,Preferred Study Format,Online,Central,25-34,Non-binary,5.4
+R000156,2024-04-13,Campus Event Interest,Very interested,South,18-24,Female,8.5
+R000157,2024-04-21,Preferred Study Format,Online,Central,18-24,Female,5.7
+R000158,2024-01-15,Campus Event Interest,Not interested,South,18-24,Male,6.0
+R000159,2024-01-17,Best Study Time,Afternoon,East,25-34,Female,5.1
+R000160,2024-04-21,Best Study Time,Evening,South,35-44,Female,6.1
+R000161,2024-02-15,Preferred Study Format,Online,South,18-24,Female,6.9
+R000162,2024-01-04,Best Study Time,Morning,Central,25-34,Male,6.8
+R000163,2024-02-04,Preferred Study Format,In-person,North,35-44,Male,6.3
+R000164,2024-04-10,Preferred Study Format,Hybrid,North,18-24,Female,6.7
+R000165,2024-02-12,Campus Event Interest,Very interested,South,18-24,Male,6.1
+R000166,2024-01-10,Preferred Study Format,Online,West,45+,Male,7.4
+R000167,2024-03-27,Best Study Time,Evening,West,35-44,Male,5.0
+R000168,2024-01-24,Best Study Time,Evening,Central,25-34,Female,7.7
+R000169,2024-02-12,Preferred Study Format,In-person,South,35-44,Female,5.8
+R000170,2024-01-01,Best Study Time,Afternoon,South,18-24,Male,6.2
+R000171,2024-03-13,Preferred Study Format,Hybrid,North,18-24,Female,
+R000172,2024-02-23,Campus Event Interest,Not interested,East,35-44,Male,6.0
+R000173,2024-04-14,Preferred Study Format,Online,Central,18-24,Male,6.5
+R000174,2024-02-10,Best Study Time,Afternoon,West,35-44,Female,7.0
+R000175,2024-01-25,Preferred Study Format,In-person,East,25-34,Male,6.9
+R000176,2024-01-20,Preferred Study Format,In-person,South,35-44,Non-binary,6.3
+R000177,2024-01-25,Campus Event Interest,Somewhat interested,Central,25-34,Male,6.2
+R000178,2024-02-24,Best Study Time,Afternoon,East,18-24,Female,6.2
+R000179,2024-01-11,Best Study Time,Morning,North,18-24,Male,5.9
+R000180,2024-02-18,Best Study Time,Morning,South,18-24,Male,5.7
+R000181,2024-04-12,Best Study Time,Morning,North,35-44,Male,6.9
+R000182,2024-04-02,Best Study Time,Morning,South,18-24,Male,7.3
+R000183,2024-03-17,Campus Event Interest,Very interested,North,18-24,Male,6.0
+R000184,2024-04-17,Preferred Study Format,Online,East,18-24,Female,6.0
+R000185,2024-04-03,Best Study Time,Afternoon,West,18-24,Female,5.5
+R000186,2024-03-19,Campus Event Interest,Somewhat interested,South,35-44,Female,5.9
+R000187,2024-04-13,Preferred Study Format,In-person,East,18-24,Male,6.1
+R000188,2024-01-15,Preferred Study Format,Hybrid,Central,45+,Male,6.9
+R000189,2024-04-08,Best Study Time,Evening,West,18-24,Male,6.7
+R000190,2024-02-05,Preferred Study Format,Hybrid,East,25-34,Female,6.6
+R000191,2024-03-28,Best Study Time,Afternoon,South,25-34,Male,6.6
+R000192,2024-04-19,Preferred Study Format,Hybrid,Central,18-24,Male,5.7
+R000193,2024-02-29,Preferred Study Format,Hybrid,South,45+,Female,6.8
+R000194,2024-01-11,Best Study Time,Evening,South,45+,Male,7.2
+R000195,2024-02-14,Preferred Study Format,Hybrid,Central,45+,Male,6.0
+R000196,2024-02-18,Preferred Study Format,In-person,East,18-24,Male,4.9
+R000197,2024-04-22,Campus Event Interest,Very interested,West,18-24,Female,7.7
+R000198,2024-04-23,Best Study Time,Morning,East,25-34,Male,5.4
+R000199,2024-03-09,Preferred Study Format,In-person,West,18-24,Prefer not to say,6.1
+R000200,2024-04-24,Preferred Study Format,Hybrid,South,35-44,Male,7.2
+R000201,2024-02-22,Best Study Time,Evening,South,25-34,Male,5.6
+R000202,2024-02-19,Best Study Time,Morning,South,25-34,Prefer not to say,7.0
+R000203,2024-04-10,Campus Event Interest,Somewhat interested,North,35-44,Female,6.0
+R000204,2024-03-21,Preferred Study Format,In-person,Central,35-44,Male,5.8
+R000205,2024-03-03,Preferred Study Format,In-person,South,18-24,Male,5.2
+R000206,2024-02-24,Preferred Study Format,Hybrid,East,18-24,Prefer not to say,5.9
+R000207,2024-03-25,Preferred Study Format,Hybrid,West,25-34,Female,7.3
+R000208,2024-03-31,Campus Event Interest,Somewhat interested,West,25-34,Female,6.1
+R000209,2024-02-28,Preferred Study Format,Hybrid,East,18-24,Male,7.4
+R000210,2024-01-04,Campus Event Interest,Very interested,East,25-34,Female,6.8
+R000211,2024-01-13,Campus Event Interest,Not interested,Central,35-44,Male,5.8
+R000212,2024-01-18,Campus Event Interest,Somewhat interested,West,35-44,Female,5.9
+R000213,2024-02-25,Preferred Study Format,In-person,West,25-34,Prefer not to say,7.6
+R000214,2024-03-14,Best Study Time,Evening,Central,18-24,Male,7.0
+R000215,2024-04-06,Campus Event Interest,Very interested,West,18-24,Female,7.5
+R000216,2024-01-28,Best Study Time,Morning,North,25-34,Male,6.3
+R000217,2024-04-04,Preferred Study Format,Online,East,18-24,Female,5.0
+R000218,2024-03-20,Preferred Study Format,Online,North,25-34,Male,6.5
+R000219,2024-01-07,Best Study Time,Afternoon,West,25-34,Male,7.0
+R000220,2024-02-12,Preferred Study Format,In-person,Central,18-24,Male,6.7
+R000221,2024-02-06,Preferred Study Format,Hybrid,East,18-24,Female,6.9
+R000222,2024-04-16,Campus Event Interest,Not interested,East,18-24,Female,5.9
+R000223,2024-04-20,Campus Event Interest,Not interested,North,45+,Male,5.4
+R000224,2024-04-08,Best Study Time,Morning,Central,25-34,Male,5.7
+R000225,2024-03-04,Preferred Study Format,In-person,North,18-24,Male,5.5
+R000226,2024-02-29,Best Study Time,Afternoon,North,45+,Female,7.6
+R000227,2024-02-07,Preferred Study Format,Hybrid,South,25-34,Female,8.1
+R000228,2024-04-02,Campus Event Interest,Very interested,North,25-34,Male,9.5
+R000229,2024-01-11,Campus Event Interest,Very interested,East,45+,Female,7.2
+R000230,2024-02-02,Preferred Study Format,Online,East,18-24,Female,6.4
+R000231,2024-01-17,Preferred Study Format,Hybrid,South,18-24,Non-binary,6.3
+R000232,2024-02-29,Preferred Study Format,Online,North,25-34,Female,6.5
+R000233,2024-02-05,Best Study Time,Evening,North,18-24,Male,
+R000234,2024-01-24,Campus Event Interest,Very interested,South,25-34,Female,6.5
+R000235,2024-02-15,Best Study Time,Afternoon,North,18-24,Male,5.7
+R000236,2024-04-13,Best Study Time,Morning,West,18-24,Male,6.1
+R000237,2024-03-07,Campus Event Interest,Very interested,South,18-24,Male,6.0
+R000238,2024-04-08,Best Study Time,Morning,South,25-34,Female,6.6
+R000239,2024-04-19,Preferred Study Format,Online,South,18-24,Male,6.5
+R000240,2024-04-18,Preferred Study Format,Online,East,18-24,Male,6.4
+R000241,2024-02-12,Best Study Time,Afternoon,North,45+,Female,6.2
+R000242,2024-04-15,Best Study Time,Morning,North,18-24,Female,5.3
+R000243,2024-04-19,Preferred Study Format,Online,Central,18-24,Female,6.6
+R000244,2024-04-25,Campus Event Interest,Somewhat interested,North,18-24,Non-binary,6.4
+R000245,2024-02-12,Campus Event Interest,Somewhat interested,East,18-24,Male,4.8
+R000246,2024-01-28,Best Study Time,Afternoon,East,18-24,Male,6.5
+R000247,2024-03-11,Campus Event Interest,Somewhat interested,South,25-34,Male,6.5
+R000248,2024-04-21,Preferred Study Format,Hybrid,East,18-24,Male,5.2
+R000249,2024-04-18,Preferred Study Format,In-person,West,45+,Male,7.3
+R000250,2024-03-09,Campus Event Interest,Very interested,Central,45+,Female,5.7
+R000251,2024-01-18,Campus Event Interest,Somewhat interested,South,18-24,Male,5.5
+R000252,2024-02-20,Best Study Time,Afternoon,South,18-24,Female,5.0
+R000253,2024-03-26,Campus Event Interest,Very interested,South,18-24,Male,5.9
+R000254,2024-03-08,Preferred Study Format,Hybrid,East,25-34,Male,5.6
+R000255,2024-02-11,Preferred Study Format,In-person,West,18-24,Female,7.4
+R000256,2024-02-11,Best Study Time,Afternoon,South,35-44,Male,6.2
+R000257,2024-01-08,Best Study Time,Evening,South,35-44,Female,6.1
+R000258,2024-02-04,Preferred Study Format,Hybrid,Central,35-44,Prefer not to say,7.6
+R000259,2024-03-21,Preferred Study Format,Online,North,25-34,Male,7.2
+R000260,2024-01-29,Campus Event Interest,Very interested,East,45+,Non-binary,6.7
+R000261,2024-04-29,Preferred Study Format,In-person,West,18-24,Female,6.8
+R000262,2024-01-10,Best Study Time,Morning,North,25-34,Female,5.9
+R000263,2024-03-11,Preferred Study Format,Online,North,18-24,Female,6.1
+R000264,2024-02-29,Preferred Study Format,In-person,North,45+,Female,5.9
+R000265,2024-04-09,Best Study Time,Afternoon,Central,25-34,Female,6.7
+R000266,2024-04-16,Preferred Study Format,Hybrid,North,35-44,Female,7.8
+R000267,2024-03-06,Preferred Study Format,Online,North,18-24,Prefer not to say,7.1
+R000268,2024-03-16,Preferred Study Format,Hybrid,North,45+,Female,7.0
+R000269,2024-03-24,Preferred Study Format,Online,North,25-34,Female,4.7
+R000270,2024-03-03,Preferred Study Format,In-person,West,25-34,Male,6.1
+R000271,2024-01-23,Preferred Study Format,In-person,South,45+,Male,6.4
+R000272,2024-02-21,Preferred Study Format,Hybrid,East,18-24,Male,5.4
+R000273,2024-01-29,Preferred Study Format,In-person,East,18-24,Male,5.1
+R000274,2024-02-25,Campus Event Interest,Very interested,Central,25-34,Male,8.0
+R000275,2024-03-14,Campus Event Interest,Very interested,North,18-24,Male,7.5
+R000276,2024-01-26,Preferred Study Format,Hybrid,Central,18-24,Male,6.9
+R000277,2024-01-30,Preferred Study Format,Online,West,18-24,Male,6.9
+R000278,2024-04-08,Campus Event Interest,Very interested,North,18-24,Female,5.8
+R000279,2024-02-15,Best Study Time,Morning,West,45+,Female,5.9
+R000280,2024-01-24,Best Study Time,Afternoon,Central,25-34,Female,6.5
+R000281,2024-03-26,Preferred Study Format,Online,South,18-24,Female,6.2
+R000282,2024-03-26,Preferred Study Format,Hybrid,Central,25-34,Male,5.4
+R000283,2024-04-09,Preferred Study Format,Hybrid,East,25-34,Female,6.8
+R000284,2024-04-01,Preferred Study Format,Hybrid,West,25-34,Female,6.7
+R000285,2024-04-29,Campus Event Interest,Very interested,Central,45+,Female,7.7
+R000286,2024-03-09,Preferred Study Format,In-person,South,45+,Male,6.8
+R000287,2024-02-04,Preferred Study Format,In-person,West,18-24,Female,7.9
+R000288,2024-04-13,Preferred Study Format,Online,South,18-24,Male,5.7
+R000289,2024-02-01,Campus Event Interest,Not interested,West,25-34,Male,4.9
+R000290,2024-02-04,Preferred Study Format,Online,West,25-34,Female,7.7
+R000291,2024-04-09,Best Study Time,Evening,South,25-34,Male,6.7
+R000292,2024-04-15,Preferred Study Format,In-person,East,25-34,Female,6.4
+R000293,2024-02-10,Best Study Time,Evening,South,25-34,Female,5.7
+R000294,2024-03-28,Preferred Study Format,Online,North,18-24,Male,5.9
+R000295,2024-04-20,Best Study Time,Morning,North,18-24,Male,6.0
+R000296,2024-04-05,Best Study Time,Morning,South,18-24,Female,5.1
+R000297,2024-01-01,Best Study Time,Morning,North,18-24,Male,4.5
+R000298,2024-03-20,Best Study Time,Morning,North,18-24,Female,6.0
+R000299,2024-01-21,Best Study Time,Afternoon,West,35-44,,7.3
+R000300,2024-04-11,Campus Event Interest,Somewhat interested,West,18-24,Male,7.5
+R000301,2024-01-09,Best Study Time,Afternoon,West,18-24,Male,7.3
+R000302,2024-04-29,Preferred Study Format,Online,South,25-34,Male,7.0
+R000303,2024-01-22,Campus Event Interest,Very interested,Central,35-44,Female,5.9
+R000304,2024-02-20,Campus Event Interest,Somewhat interested,East,18-24,Male,6.5
+R000305,2024-01-29,Best Study Time,Afternoon,North,35-44,Male,7.1
+R000306,2024-04-07,Campus Event Interest,Very interested,North,45+,Male,7.6
+R000307,2024-02-17,Preferred Study Format,In-person,West,25-34,Female,6.5
+R000308,2024-03-30,Campus Event Interest,Very interested,North,25-34,Female,7.0
+R000309,2024-01-09,Preferred Study Format,Hybrid,East,18-24,Female,8.3
+R000310,2024-02-24,Preferred Study Format,Hybrid,Central,45+,Female,7.5
+R000311,2024-04-19,Campus Event Interest,Somewhat interested,North,18-24,Female,6.8
+R000312,2024-04-21,Preferred Study Format,Online,North,45+,Female,
+R000313,2024-01-26,Preferred Study Format,Hybrid,Central,25-34,Male,6.1
+R000314,2024-02-17,Preferred Study Format,Hybrid,East,18-24,Female,7.1
+R000315,2024-02-19,Preferred Study Format,In-person,North,18-24,Male,6.6
+R000316,2024-03-08,Preferred Study Format,Hybrid,Central,35-44,Male,7.3
+R000317,2024-03-05,Preferred Study Format,In-person,Central,25-34,Male,5.8
+R000318,2024-01-13,Campus Event Interest,Not interested,East,18-24,Male,6.2
+R000319,2024-04-01,Preferred Study Format,In-person,West,35-44,Male,6.4
+R000320,2024-01-28,Best Study Time,Evening,South,35-44,Male,7.1
+R000321,2024-02-07,Best Study Time,Evening,North,25-34,Non-binary,6.8
+R000322,2024-04-10,Campus Event Interest,Not interested,East,25-34,Male,5.7
+R000323,2024-03-23,Preferred Study Format,Hybrid,South,18-24,Male,6.1
+R000324,2024-02-17,Campus Event Interest,Very interested,West,35-44,Male,7.0
+R000325,2024-04-19,Best Study Time,Morning,Central,18-24,Male,5.8
+R000326,2024-02-17,Campus Event Interest,Very interested,North,45+,Female,6.9
+R000327,2024-03-08,Best Study Time,Morning,East,18-24,Male,6.6
+R000328,2024-01-30,Campus Event Interest,Very interested,South,25-34,Male,5.3
+R000329,2024-01-22,Campus Event Interest,Somewhat interested,Central,18-24,Non-binary,6.8
+R000330,2024-02-28,Preferred Study Format,Hybrid,South,18-24,Male,7.0
+R000331,2024-03-08,Best Study Time,Afternoon,West,35-44,Female,6.5
+R000332,2024-04-06,Preferred Study Format,Online,East,25-34,Prefer not to say,6.4
+R000333,2024-02-16,Campus Event Interest,Somewhat interested,South,25-34,Female,5.4
+R000334,2024-04-17,Best Study Time,Evening,West,45+,Female,7.2
+R000335,2024-03-13,Preferred Study Format,Hybrid,West,45+,Female,6.3
+R000336,2024-01-09,Campus Event Interest,Somewhat interested,East,35-44,Female,4.2
+R000337,2024-03-29,Preferred Study Format,In-person,West,18-24,Female,7.6
+R000338,2024-03-09,Best Study Time,Afternoon,Central,25-34,Female,5.4
+R000339,2024-02-16,Preferred Study Format,In-person,East,45+,Male,6.6
+R000340,2024-02-26,Best Study Time,Afternoon,East,18-24,Male,6.5
+R000341,2024-02-06,Preferred Study Format,In-person,North,18-24,Female,6.9
+R000342,2024-03-14,Best Study Time,Afternoon,West,35-44,Male,6.7
+R000343,2024-03-09,Best Study Time,Afternoon,East,25-34,Female,6.7
+R000344,2024-02-23,Campus Event Interest,Somewhat interested,South,25-34,Non-binary,6.0
+R000345,2024-02-04,Best Study Time,Evening,North,45+,Female,5.5
+R000346,2024-02-17,Best Study Time,Afternoon,Central,25-34,Male,6.3
+R000347,2024-02-29,Best Study Time,Morning,South,25-34,Female,6.7
+R000348,2024-02-26,Preferred Study Format,Hybrid,West,18-24,Male,5.8
+R000349,2024-02-07,Campus Event Interest,Not interested,North,25-34,Female,5.9
+R000350,2024-03-10,Preferred Study Format,Hybrid,Central,18-24,Male,8.0
+R000351,2024-01-28,Campus Event Interest,Somewhat interested,North,35-44,Female,6.5
+R000352,2024-03-01,Preferred Study Format,In-person,North,35-44,Male,6.6
+R000353,2024-01-15,Campus Event Interest,Somewhat interested,Central,18-24,Male,4.8
+R000354,2024-02-26,Campus Event Interest,Very interested,Central,18-24,Male,5.7
+R000355,2024-04-04,Campus Event Interest,Not interested,South,45+,Male,5.0
+R000356,2024-04-08,Campus Event Interest,Somewhat interested,East,18-24,Prefer not to say,6.7
+R000357,2024-03-24,Best Study Time,Afternoon,West,25-34,Female,5.8
+R000358,2024-03-30,Best Study Time,Afternoon,Central,25-34,Female,4.7
+R000359,2024-01-08,Campus Event Interest,Not interested,South,35-44,Female,5.9
+R000360,2024-02-10,Campus Event Interest,Somewhat interested,East,18-24,Female,5.6
+R000361,2024-03-19,Best Study Time,Evening,West,25-34,Male,5.4
+R000362,2024-04-06,Preferred Study Format,Online,West,18-24,Prefer not to say,6.9
+R000363,2024-03-10,Preferred Study Format,Hybrid,West,25-34,Prefer not to say,6.4
+R000364,2024-04-12,Preferred Study Format,Hybrid,East,18-24,Male,6.9
+R000365,2024-02-02,Campus Event Interest,Somewhat interested,North,25-34,Male,5.1
+R000366,2024-01-19,Preferred Study Format,In-person,Central,25-34,Male,4.5
+R000367,2024-01-11,Best Study Time,Afternoon,Central,18-24,Non-binary,6.3
+R000368,2024-03-10,Campus Event Interest,Somewhat interested,West,18-24,Female,5.5
+R000369,2024-03-20,Preferred Study Format,Hybrid,North,18-24,Male,6.7
+R000370,2024-02-04,Best Study Time,Evening,South,18-24,Male,6.4
+R000371,2024-04-04,Best Study Time,Afternoon,West,18-24,Female,6.5
+R000372,2024-03-29,Preferred Study Format,Online,North,45+,Female,7.4
+R000373,2024-02-13,Preferred Study Format,Online,Central,25-34,Prefer not to say,
+R000374,2024-01-29,Preferred Study Format,Hybrid,South,35-44,Prefer not to say,6.9
+R000375,2024-03-30,Preferred Study Format,In-person,West,45+,Male,8.4
+R000376,2024-03-21,Preferred Study Format,Hybrid,Central,18-24,Male,5.0
+R000377,2024-01-21,Best Study Time,Evening,South,25-34,Female,6.1
+R000378,2024-01-31,Campus Event Interest,Somewhat interested,South,45+,Female,5.3
+R000379,2024-02-28,Preferred Study Format,In-person,West,25-34,Male,6.0
+R000380,2024-03-02,Best Study Time,Evening,East,25-34,Male,
+R000381,2024-01-20,Campus Event Interest,Not interested,South,25-34,Male,7.2
+R000382,2024-04-23,Best Study Time,Afternoon,West,18-24,Male,6.5
+R000383,2024-02-16,Best Study Time,Afternoon,Central,25-34,Female,7.2
+R000384,2024-02-15,Campus Event Interest,Very interested,East,45+,,
+R000385,2024-01-08,Preferred Study Format,In-person,North,45+,Female,6.3
+R000386,2024-04-15,Best Study Time,Morning,South,18-24,Female,4.7
+R000387,2024-01-29,Campus Event Interest,Very interested,South,35-44,Female,8.4
+R000388,2024-04-28,Best Study Time,Evening,North,18-24,Female,7.7
+R000389,2024-02-29,Preferred Study Format,Online,North,45+,Male,6.7
+R000390,2024-04-14,Best Study Time,Morning,West,18-24,Female,6.2
+R000391,2024-01-22,Campus Event Interest,Somewhat interested,South,45+,Female,6.5
+R000392,2024-01-20,Preferred Study Format,In-person,Central,35-44,Male,5.3
+R000393,2024-04-06,Campus Event Interest,Somewhat interested,South,18-24,Male,
+R000394,2024-04-08,Campus Event Interest,Not interested,North,18-24,,6.8
+R000395,2024-03-06,Preferred Study Format,Hybrid,West,35-44,Female,8.1
+R000396,2024-01-04,Campus Event Interest,Somewhat interested,Central,18-24,Female,4.8
+R000397,2024-04-23,Best Study Time,Afternoon,South,25-34,Male,7.2
+R000398,2024-02-17,Preferred Study Format,Hybrid,South,45+,Female,5.5
+R000399,2024-04-22,Campus Event Interest,Not interested,North,25-34,Female,3.9
+R000400,2024-04-14,Campus Event Interest,Somewhat interested,East,18-24,Female,7.2
+R000401,2024-04-12,Preferred Study Format,Online,East,25-34,Male,5.8
+R000402,2024-03-23,Best Study Time,Morning,South,18-24,Female,6.9
+R000403,2024-03-21,Best Study Time,Evening,North,45+,Male,7.5
+R000404,2024-03-04,Preferred Study Format,Online,East,18-24,Female,
+R000405,2024-01-03,Best Study Time,Morning,Central,18-24,Male,6.2
+R000406,2024-02-16,Best Study Time,Morning,West,18-24,Female,5.3
+R000407,2024-03-28,Preferred Study Format,Online,East,45+,Female,6.2
+R000408,2024-04-07,Best Study Time,Morning,North,18-24,Female,7.5
+R000409,2024-03-08,Preferred Study Format,In-person,South,45+,Male,7.4
+R000410,2024-03-26,Best Study Time,Morning,South,35-44,Male,6.1
+R000411,2024-01-03,Campus Event Interest,Not interested,West,35-44,Female,5.7
+R000412,2024-02-26,Campus Event Interest,Somewhat interested,Central,45+,Female,7.0
+R000413,2024-03-01,Preferred Study Format,Hybrid,Central,35-44,Male,6.7
+R000414,2024-04-17,Best Study Time,Afternoon,Central,45+,Male,6.3
+R000415,2024-02-07,Preferred Study Format,In-person,Central,18-24,Female,6.7
+R000416,2024-01-28,Preferred Study Format,In-person,Central,35-44,Female,6.9
+R000417,2024-02-12,Preferred Study Format,In-person,North,25-34,Male,6.0
+R000418,2024-01-21,Best Study Time,Evening,North,25-34,Male,6.9
+R000419,2024-03-08,Preferred Study Format,Online,South,45+,Male,6.6
+R000420,2024-03-18,Best Study Time,Morning,East,45+,Non-binary,6.5
+R000421,2024-04-06,Campus Event Interest,Very interested,North,35-44,Male,6.4
+R000422,2024-04-26,Preferred Study Format,In-person,Central,25-34,Female,6.1
+R000423,2024-01-09,Preferred Study Format,In-person,West,25-34,Male,5.8
+R000424,2024-01-30,Preferred Study Format,In-person,East,18-24,Female,6.7
+R000425,2024-02-06,Campus Event Interest,Very interested,North,18-24,Female,5.5
+R000426,2024-01-30,Best Study Time,Evening,South,18-24,Female,7.6
+R000427,2024-04-09,Preferred Study Format,Online,North,18-24,Female,7.3
+R000428,2024-01-17,Best Study Time,Morning,Central,18-24,Male,6.5
+R000429,2024-01-04,Preferred Study Format,Hybrid,East,35-44,Female,7.5
+R000430,2024-04-13,Best Study Time,Afternoon,West,25-34,Female,7.3
+R000431,2024-04-25,Best Study Time,Evening,South,45+,Male,6.7
+R000432,2024-01-28,Best Study Time,Afternoon,South,25-34,Male,6.1
+R000433,2024-02-09,Campus Event Interest,Somewhat interested,South,18-24,Male,5.9
+R000434,2024-03-01,Best Study Time,Morning,West,18-24,Male,7.7
+R000435,2024-03-04,Preferred Study Format,Hybrid,West,18-24,Male,6.0
+R000436,2024-04-28,Preferred Study Format,Online,South,45+,Female,5.6
+R000437,2024-02-18,Preferred Study Format,In-person,Central,18-24,Male,7.1
+R000438,2024-01-02,Campus Event Interest,Very interested,North,25-34,Male,7.7
+R000439,2024-02-20,Best Study Time,Afternoon,Central,45+,Female,6.3
+R000440,2024-03-07,Campus Event Interest,Very interested,North,45+,Female,7.6
+R000441,2024-03-03,Best Study Time,Morning,South,18-24,Female,6.7
+R000442,2024-03-02,Preferred Study Format,Hybrid,Central,18-24,Female,5.3
+R000443,2024-04-20,Best Study Time,Morning,North,18-24,Female,7.5
+R000444,2024-04-06,Preferred Study Format,Hybrid,East,18-24,Female,7.1
+R000445,2024-01-31,Preferred Study Format,In-person,East,18-24,Male,6.8
+R000446,2024-02-12,Campus Event Interest,Very interested,South,25-34,Non-binary,7.3
+R000447,2024-03-21,Best Study Time,Morning,West,45+,Female,7.0
+R000448,2024-02-19,Campus Event Interest,Somewhat interested,Central,25-34,Non-binary,6.2
+R000449,2024-02-21,Preferred Study Format,In-person,Central,25-34,Female,4.7
+R000450,2024-01-21,Campus Event Interest,Not interested,South,18-24,Non-binary,5.6
+R000451,2024-01-31,Preferred Study Format,Online,East,35-44,Non-binary,5.2
+R000452,2024-03-29,Best Study Time,Afternoon,South,25-34,Female,8.0
+R000453,2024-04-11,Campus Event Interest,Very interested,South,45+,Male,6.8
+R000454,2024-04-04,Preferred Study Format,Online,North,45+,Prefer not to say,8.2
+R000455,2024-02-06,Preferred Study Format,Online,Central,18-24,Male,6.2
+R000456,2024-01-17,Preferred Study Format,In-person,Central,18-24,Prefer not to say,5.8
+R000457,2024-01-20,Best Study Time,Evening,West,18-24,Male,7.7
+R000458,2024-02-17,Campus Event Interest,Somewhat interested,East,25-34,Female,6.7
+R000459,2024-03-03,Best Study Time,Morning,East,45+,Male,
+R000460,2024-04-17,Campus Event Interest,Very interested,East,18-24,Male,6.2
+R000461,2024-04-17,Campus Event Interest,Somewhat interested,East,35-44,Male,7.6
+R000462,2024-01-01,Preferred Study Format,In-person,East,25-34,Female,8.5
+R000463,2024-03-25,Best Study Time,Evening,North,18-24,Male,7.7
+R000464,2024-02-05,Preferred Study Format,In-person,North,18-24,Female,7.1
+R000465,2024-01-24,Campus Event Interest,Somewhat interested,Central,25-34,Male,7.5
+R000466,2024-03-07,Campus Event Interest,Somewhat interested,East,25-34,Female,6.3
+R000467,2024-01-05,Campus Event Interest,Somewhat interested,Central,25-34,Male,5.6
+R000468,2024-02-10,Best Study Time,Morning,North,18-24,Male,5.9
+R000469,2024-03-07,Preferred Study Format,Online,East,35-44,Male,
+R000470,2024-02-02,Campus Event Interest,Very interested,South,18-24,Male,7.3
+R000471,2024-03-12,Preferred Study Format,Hybrid,South,45+,Female,6.1
+R000472,2024-02-25,Campus Event Interest,Very interested,North,18-24,Prefer not to say,6.6
+R000473,2024-04-05,Preferred Study Format,Online,North,18-24,Male,5.7
+R000474,2024-01-22,Preferred Study Format,Hybrid,Central,25-34,Female,7.4
+R000475,2024-01-07,Preferred Study Format,Hybrid,South,25-34,Female,8.2
+R000476,2024-03-04,Preferred Study Format,Hybrid,West,25-34,Female,6.0
+R000477,2024-01-31,Campus Event Interest,Somewhat interested,East,25-34,Female,6.9
+R000478,2024-03-25,Campus Event Interest,Not interested,South,45+,Non-binary,6.7
+R000479,2024-01-12,Campus Event Interest,Somewhat interested,East,25-34,Male,6.2
+R000480,2024-03-10,Preferred Study Format,Online,North,25-34,Female,5.2
+R000481,2024-04-28,Preferred Study Format,Online,Central,25-34,Male,7.2
+R000482,2024-01-12,Preferred Study Format,Hybrid,West,18-24,Female,5.5
+R000483,2024-02-06,Campus Event Interest,Very interested,West,25-34,Male,8.4
+R000484,2024-04-11,Preferred Study Format,Hybrid,East,18-24,Female,5.9
+R000485,2024-03-05,Preferred Study Format,Hybrid,North,25-34,Male,
+R000486,2024-01-21,Preferred Study Format,Online,Central,18-24,Non-binary,5.7
+R000487,2024-01-26,Campus Event Interest,Not interested,South,45+,Female,5.7
+R000488,2024-04-01,Preferred Study Format,Hybrid,North,25-34,Male,6.9
+R000489,2024-04-13,Campus Event Interest,Somewhat interested,South,45+,Prefer not to say,7.0
+R000490,2024-02-13,Campus Event Interest,Very interested,West,25-34,Female,7.2
+R000491,2024-02-26,Campus Event Interest,Somewhat interested,West,18-24,Female,8.0
+R000492,2024-04-03,Campus Event Interest,Somewhat interested,West,35-44,Male,6.6
+R000493,2024-01-22,Campus Event Interest,Not interested,West,25-34,Female,6.1
+R000494,2024-01-25,Preferred Study Format,In-person,South,35-44,Female,
+R000495,2024-04-02,Best Study Time,Afternoon,Central,25-34,Male,5.0
+R000496,2024-01-23,Campus Event Interest,Somewhat interested,East,25-34,Male,5.4
+R000497,2024-04-02,Campus Event Interest,Somewhat interested,West,35-44,Female,6.7
+R000498,2024-02-29,Campus Event Interest,Very interested,North,25-34,Female,7.3
+R000499,2024-04-28,Preferred Study Format,In-person,Central,18-24,Male,4.6
+R000500,2024-01-04,Campus Event Interest,Very interested,South,25-34,Male,8.3

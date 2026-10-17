@@ -1,0 +1,46 @@
+region,question,option,votes,region_question_total,share_percent
+Central,Best Study Time,Afternoon,12,24,50.0
+Central,Best Study Time,Morning,7,24,29.166666666666668
+Central,Best Study Time,Evening,5,24,20.833333333333336
+Central,Campus Event Interest,Somewhat interested,14,25,56.00000000000001
+Central,Campus Event Interest,Very interested,8,25,32.0
+Central,Campus Event Interest,Not interested,3,25,12.0
+Central,Preferred Study Format,Hybrid,20,49,40.816326530612244
+Central,Preferred Study Format,In-person,19,49,38.775510204081634
+Central,Preferred Study Format,Online,10,49,20.408163265306122
+East,Best Study Time,Afternoon,6,15,40.0
+East,Best Study Time,Morning,5,15,33.33333333333333
+East,Best Study Time,Evening,4,15,26.666666666666668
+East,Campus Event Interest,Somewhat interested,18,31,58.06451612903226
+East,Campus Event Interest,Very interested,8,31,25.806451612903224
+East,Campus Event Interest,Not interested,5,31,16.129032258064516
+East,Preferred Study Format,Hybrid,18,45,40.0
+East,Preferred Study Format,Online,16,45,35.55555555555556
+East,Preferred Study Format,In-person,11,45,24.444444444444443
+North,Best Study Time,Morning,12,30,40.0
+North,Best Study Time,Evening,10,30,33.33333333333333
+North,Best Study Time,Afternoon,8,30,26.666666666666668
+North,Campus Event Interest,Very interested,17,33,51.515151515151516
+North,Campus Event Interest,Somewhat interested,11,33,33.33333333333333
+North,Campus Event Interest,Not interested,5,33,15.151515151515152
+North,Preferred Study Format,In-person,18,43,41.86046511627907
+North,Preferred Study Format,Online,16,43,37.2093023255814
+North,Preferred Study Format,Hybrid,9,43,20.930232558139537
+South,Best Study Time,Morning,13,33,39.39393939393939
+South,Best Study Time,Evening,12,33,36.36363636363637
+South,Best Study Time,Afternoon,8,33,24.242424242424242
+South,Campus Event Interest,Very interested,16,39,41.02564102564102
+South,Campus Event Interest,Somewhat interested,14,39,35.8974358974359
+South,Campus Event Interest,Not interested,9,39,23.076923076923077
+South,Preferred Study Format,Hybrid,15,34,44.11764705882353
+South,Preferred Study Format,Online,10,34,29.411764705882355
+South,Preferred Study Format,In-person,9,34,26.47058823529412
+West,Best Study Time,Afternoon,14,34,41.17647058823529
+West,Best Study Time,Morning,12,34,35.294117647058826
+West,Best Study Time,Evening,8,34,23.52941176470588
+West,Campus Event Interest,Somewhat interested,15,28,53.57142857142857
+West,Campus Event Interest,Very interested,10,28,35.714285714285715
+West,Campus Event Interest,Not interested,3,28,10.714285714285714
+West,Preferred Study Format,In-person,17,37,45.94594594594595
+West,Preferred Study Format,Hybrid,12,37,32.432432432432435
+West,Preferred Study Format,Online,8,37,21.62162162162162

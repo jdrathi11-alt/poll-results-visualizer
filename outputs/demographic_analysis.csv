@@ -1,0 +1,77 @@
+dimension,group,question,option,votes,group_question_total,share_percent
+age_group,18-24,Best Study Time,Morning,29,58,50.0
+age_group,18-24,Best Study Time,Afternoon,16,58,27.586206896551722
+age_group,18-24,Best Study Time,Evening,13,58,22.413793103448278
+age_group,18-24,Campus Event Interest,Somewhat interested,26,55,47.27272727272727
+age_group,18-24,Campus Event Interest,Very interested,23,55,41.81818181818181
+age_group,18-24,Campus Event Interest,Not interested,6,55,10.909090909090908
+age_group,18-24,Preferred Study Format,Hybrid,28,82,34.146341463414636
+age_group,18-24,Preferred Study Format,In-person,28,82,34.146341463414636
+age_group,18-24,Preferred Study Format,Online,26,82,31.70731707317073
+age_group,25-34,Best Study Time,Afternoon,19,43,44.18604651162791
+age_group,25-34,Best Study Time,Evening,12,43,27.906976744186046
+age_group,25-34,Best Study Time,Morning,12,43,27.906976744186046
+age_group,25-34,Campus Event Interest,Somewhat interested,26,53,49.056603773584904
+age_group,25-34,Campus Event Interest,Very interested,17,53,32.075471698113205
+age_group,25-34,Campus Event Interest,Not interested,10,53,18.867924528301888
+age_group,25-34,Preferred Study Format,Hybrid,20,57,35.08771929824561
+age_group,25-34,Preferred Study Format,In-person,20,57,35.08771929824561
+age_group,25-34,Preferred Study Format,Online,17,57,29.82456140350877
+age_group,35-44,Best Study Time,Afternoon,8,16,50.0
+age_group,35-44,Best Study Time,Evening,5,16,31.25
+age_group,35-44,Best Study Time,Morning,3,16,18.75
+age_group,35-44,Campus Event Interest,Somewhat interested,11,22,50.0
+age_group,35-44,Campus Event Interest,Very interested,6,22,27.27272727272727
+age_group,35-44,Campus Event Interest,Not interested,5,22,22.727272727272727
+age_group,35-44,Preferred Study Format,Hybrid,16,35,45.714285714285715
+age_group,35-44,Preferred Study Format,In-person,14,35,40.0
+age_group,35-44,Preferred Study Format,Online,5,35,14.285714285714285
+age_group,45+,Best Study Time,Evening,9,19,47.368421052631575
+age_group,45+,Best Study Time,Afternoon,5,19,26.31578947368421
+age_group,45+,Best Study Time,Morning,5,19,26.31578947368421
+age_group,45+,Campus Event Interest,Very interested,13,26,50.0
+age_group,45+,Campus Event Interest,Somewhat interested,9,26,34.61538461538461
+age_group,45+,Campus Event Interest,Not interested,4,26,15.384615384615385
+age_group,45+,Preferred Study Format,In-person,12,34,35.294117647058826
+age_group,45+,Preferred Study Format,Online,12,34,35.294117647058826
+age_group,45+,Preferred Study Format,Hybrid,10,34,29.411764705882355
+gender,Female,Best Study Time,Afternoon,26,66,39.39393939393939
+gender,Female,Best Study Time,Morning,22,66,33.33333333333333
+gender,Female,Best Study Time,Evening,18,66,27.27272727272727
+gender,Female,Campus Event Interest,Somewhat interested,33,70,47.14285714285714
+gender,Female,Campus Event Interest,Very interested,26,70,37.142857142857146
+gender,Female,Campus Event Interest,Not interested,11,70,15.714285714285714
+gender,Female,Preferred Study Format,Hybrid,36,93,38.70967741935484
+gender,Female,Preferred Study Format,In-person,29,93,31.182795698924732
+gender,Female,Preferred Study Format,Online,28,93,30.107526881720432
+gender,Male,Best Study Time,Morning,25,64,39.0625
+gender,Male,Best Study Time,Afternoon,20,64,31.25
+gender,Male,Best Study Time,Evening,19,64,29.6875
+gender,Male,Campus Event Interest,Somewhat interested,28,64,43.75
+gender,Male,Campus Event Interest,Very interested,26,64,40.625
+gender,Male,Campus Event Interest,Not interested,10,64,15.625
+gender,Male,Preferred Study Format,In-person,39,94,41.48936170212766
+gender,Male,Preferred Study Format,Hybrid,32,94,34.04255319148936
+gender,Male,Preferred Study Format,Online,23,94,24.46808510638298
+gender,Non-binary,Best Study Time,Afternoon,1,3,33.33333333333333
+gender,Non-binary,Best Study Time,Evening,1,3,33.33333333333333
+gender,Non-binary,Best Study Time,Morning,1,3,33.33333333333333
+gender,Non-binary,Campus Event Interest,Somewhat interested,6,11,54.54545454545454
+gender,Non-binary,Campus Event Interest,Very interested,3,11,27.27272727272727
+gender,Non-binary,Campus Event Interest,Not interested,2,11,18.181818181818183
+gender,Non-binary,Preferred Study Format,Online,3,7,42.857142857142854
+gender,Non-binary,Preferred Study Format,Hybrid,2,7,28.57142857142857
+gender,Non-binary,Preferred Study Format,In-person,2,7,28.57142857142857
+gender,Prefer not to say,Best Study Time,Morning,1,1,100.0
+gender,Prefer not to say,Campus Event Interest,Somewhat interested,5,9,55.55555555555556
+gender,Prefer not to say,Campus Event Interest,Very interested,3,9,33.33333333333333
+gender,Prefer not to say,Campus Event Interest,Not interested,1,9,11.11111111111111
+gender,Prefer not to say,Preferred Study Format,Online,5,12,41.66666666666667
+gender,Prefer not to say,Preferred Study Format,Hybrid,4,12,33.33333333333333
+gender,Prefer not to say,Preferred Study Format,In-person,3,12,25.0
+gender,Unknown,Best Study Time,Afternoon,1,2,50.0
+gender,Unknown,Best Study Time,Evening,1,2,50.0
+gender,Unknown,Campus Event Interest,Not interested,1,2,50.0
+gender,Unknown,Campus Event Interest,Very interested,1,2,50.0
+gender,Unknown,Preferred Study Format,In-person,1,2,50.0
+gender,Unknown,Preferred Study Format,Online,1,2,50.0

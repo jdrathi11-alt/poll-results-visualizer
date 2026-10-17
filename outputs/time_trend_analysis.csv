@@ -1,0 +1,406 @@
+response_date,question,option,votes,date_question_total,share_percent
+2024-01-01,Best Study Time,Afternoon,1,3,33.33333333333333
+2024-01-01,Best Study Time,Evening,1,3,33.33333333333333
+2024-01-01,Best Study Time,Morning,1,3,33.33333333333333
+2024-01-01,Preferred Study Format,In-person,1,1,100.0
+2024-01-02,Campus Event Interest,Very interested,3,3,100.0
+2024-01-02,Preferred Study Format,Hybrid,1,1,100.0
+2024-01-03,Best Study Time,Morning,1,1,100.0
+2024-01-03,Campus Event Interest,Not interested,2,2,100.0
+2024-01-04,Best Study Time,Morning,1,1,100.0
+2024-01-04,Campus Event Interest,Somewhat interested,2,5,40.0
+2024-01-04,Campus Event Interest,Very interested,3,5,60.0
+2024-01-04,Preferred Study Format,Hybrid,1,1,100.0
+2024-01-05,Campus Event Interest,Not interested,1,2,50.0
+2024-01-05,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-05,Preferred Study Format,Hybrid,1,2,50.0
+2024-01-05,Preferred Study Format,In-person,1,2,50.0
+2024-01-06,Campus Event Interest,Very interested,2,2,100.0
+2024-01-07,Best Study Time,Afternoon,1,2,50.0
+2024-01-07,Best Study Time,Evening,1,2,50.0
+2024-01-07,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-01-07,Preferred Study Format,Hybrid,1,1,100.0
+2024-01-08,Best Study Time,Evening,1,1,100.0
+2024-01-08,Campus Event Interest,Not interested,1,1,100.0
+2024-01-08,Preferred Study Format,In-person,1,1,100.0
+2024-01-09,Best Study Time,Afternoon,1,1,100.0
+2024-01-09,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-01-09,Preferred Study Format,Hybrid,1,2,50.0
+2024-01-09,Preferred Study Format,In-person,1,2,50.0
+2024-01-10,Best Study Time,Morning,2,2,100.0
+2024-01-10,Preferred Study Format,Online,1,1,100.0
+2024-01-11,Best Study Time,Afternoon,1,3,33.33333333333333
+2024-01-11,Best Study Time,Evening,1,3,33.33333333333333
+2024-01-11,Best Study Time,Morning,1,3,33.33333333333333
+2024-01-11,Campus Event Interest,Very interested,1,1,100.0
+2024-01-12,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-01-12,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-01-12,Preferred Study Format,In-person,2,3,66.66666666666666
+2024-01-13,Campus Event Interest,Not interested,2,2,100.0
+2024-01-14,Best Study Time,Afternoon,1,1,100.0
+2024-01-14,Preferred Study Format,Hybrid,1,1,100.0
+2024-01-15,Campus Event Interest,Not interested,1,2,50.0
+2024-01-15,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-15,Preferred Study Format,Hybrid,2,2,100.0
+2024-01-17,Best Study Time,Afternoon,1,2,50.0
+2024-01-17,Best Study Time,Morning,1,2,50.0
+2024-01-17,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-01-17,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-01-17,Preferred Study Format,Online,1,3,33.33333333333333
+2024-01-18,Campus Event Interest,Somewhat interested,2,2,100.0
+2024-01-18,Preferred Study Format,Hybrid,1,2,50.0
+2024-01-18,Preferred Study Format,Online,1,2,50.0
+2024-01-19,Preferred Study Format,In-person,2,2,100.0
+2024-01-20,Best Study Time,Evening,2,3,66.66666666666666
+2024-01-20,Best Study Time,Morning,1,3,33.33333333333333
+2024-01-20,Campus Event Interest,Not interested,1,1,100.0
+2024-01-20,Preferred Study Format,In-person,2,2,100.0
+2024-01-21,Best Study Time,Afternoon,1,4,25.0
+2024-01-21,Best Study Time,Evening,2,4,50.0
+2024-01-21,Best Study Time,Morning,1,4,25.0
+2024-01-21,Campus Event Interest,Not interested,1,2,50.0
+2024-01-21,Campus Event Interest,Very interested,1,2,50.0
+2024-01-21,Preferred Study Format,Online,1,1,100.0
+2024-01-22,Campus Event Interest,Not interested,1,4,25.0
+2024-01-22,Campus Event Interest,Somewhat interested,2,4,50.0
+2024-01-22,Campus Event Interest,Very interested,1,4,25.0
+2024-01-22,Preferred Study Format,Hybrid,1,1,100.0
+2024-01-23,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-01-23,Preferred Study Format,In-person,1,1,100.0
+2024-01-24,Best Study Time,Afternoon,1,3,33.33333333333333
+2024-01-24,Best Study Time,Evening,1,3,33.33333333333333
+2024-01-24,Best Study Time,Morning,1,3,33.33333333333333
+2024-01-24,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-24,Campus Event Interest,Very interested,1,2,50.0
+2024-01-25,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-01-25,Preferred Study Format,In-person,2,2,100.0
+2024-01-26,Campus Event Interest,Not interested,1,2,50.0
+2024-01-26,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-26,Preferred Study Format,Hybrid,2,2,100.0
+2024-01-28,Best Study Time,Afternoon,2,4,50.0
+2024-01-28,Best Study Time,Evening,1,4,25.0
+2024-01-28,Best Study Time,Morning,1,4,25.0
+2024-01-28,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-28,Campus Event Interest,Very interested,1,2,50.0
+2024-01-28,Preferred Study Format,Hybrid,1,2,50.0
+2024-01-28,Preferred Study Format,In-person,1,2,50.0
+2024-01-29,Best Study Time,Afternoon,1,1,100.0
+2024-01-29,Campus Event Interest,Very interested,2,2,100.0
+2024-01-29,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-01-29,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-01-29,Preferred Study Format,Online,1,3,33.33333333333333
+2024-01-30,Best Study Time,Evening,1,1,100.0
+2024-01-30,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-01-30,Campus Event Interest,Very interested,1,2,50.0
+2024-01-30,Preferred Study Format,In-person,3,4,75.0
+2024-01-30,Preferred Study Format,Online,1,4,25.0
+2024-01-31,Best Study Time,Afternoon,1,1,100.0
+2024-01-31,Campus Event Interest,Somewhat interested,2,3,66.66666666666666
+2024-01-31,Campus Event Interest,Very interested,1,3,33.33333333333333
+2024-01-31,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-01-31,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-01-31,Preferred Study Format,Online,1,3,33.33333333333333
+2024-02-01,Best Study Time,Morning,1,1,100.0
+2024-02-01,Campus Event Interest,Not interested,1,1,100.0
+2024-02-01,Preferred Study Format,Online,1,1,100.0
+2024-02-02,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-02-02,Campus Event Interest,Very interested,1,2,50.0
+2024-02-02,Preferred Study Format,Online,1,1,100.0
+2024-02-03,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-04,Best Study Time,Evening,3,3,100.0
+2024-02-04,Preferred Study Format,Hybrid,1,4,25.0
+2024-02-04,Preferred Study Format,In-person,2,4,50.0
+2024-02-04,Preferred Study Format,Online,1,4,25.0
+2024-02-05,Best Study Time,Evening,2,2,100.0
+2024-02-05,Campus Event Interest,Very interested,1,1,100.0
+2024-02-05,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-05,Preferred Study Format,In-person,1,2,50.0
+2024-02-06,Campus Event Interest,Very interested,2,2,100.0
+2024-02-06,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-02-06,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-02-06,Preferred Study Format,Online,1,3,33.33333333333333
+2024-02-07,Best Study Time,Evening,1,1,100.0
+2024-02-07,Campus Event Interest,Not interested,1,2,50.0
+2024-02-07,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-02-07,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-07,Preferred Study Format,In-person,1,2,50.0
+2024-02-08,Best Study Time,Morning,1,1,100.0
+2024-02-08,Preferred Study Format,Hybrid,2,2,100.0
+2024-02-09,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-09,Preferred Study Format,Online,2,2,100.0
+2024-02-10,Best Study Time,Afternoon,1,3,33.33333333333333
+2024-02-10,Best Study Time,Evening,1,3,33.33333333333333
+2024-02-10,Best Study Time,Morning,1,3,33.33333333333333
+2024-02-10,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-10,Preferred Study Format,Hybrid,1,1,100.0
+2024-02-11,Best Study Time,Afternoon,1,1,100.0
+2024-02-11,Preferred Study Format,In-person,1,1,100.0
+2024-02-12,Best Study Time,Afternoon,1,1,100.0
+2024-02-12,Campus Event Interest,Somewhat interested,2,4,50.0
+2024-02-12,Campus Event Interest,Very interested,2,4,50.0
+2024-02-12,Preferred Study Format,In-person,3,3,100.0
+2024-02-13,Campus Event Interest,Very interested,1,1,100.0
+2024-02-13,Preferred Study Format,Online,2,2,100.0
+2024-02-14,Best Study Time,Afternoon,1,1,100.0
+2024-02-14,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-14,Preferred Study Format,Hybrid,1,1,100.0
+2024-02-15,Best Study Time,Afternoon,1,2,50.0
+2024-02-15,Best Study Time,Morning,1,2,50.0
+2024-02-15,Campus Event Interest,Somewhat interested,2,3,66.66666666666666
+2024-02-15,Campus Event Interest,Very interested,1,3,33.33333333333333
+2024-02-15,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-15,Preferred Study Format,Online,1,2,50.0
+2024-02-16,Best Study Time,Afternoon,1,2,50.0
+2024-02-16,Best Study Time,Morning,1,2,50.0
+2024-02-16,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-16,Preferred Study Format,In-person,1,1,100.0
+2024-02-17,Best Study Time,Afternoon,1,2,50.0
+2024-02-17,Best Study Time,Morning,1,2,50.0
+2024-02-17,Campus Event Interest,Somewhat interested,2,4,50.0
+2024-02-17,Campus Event Interest,Very interested,2,4,50.0
+2024-02-17,Preferred Study Format,Hybrid,2,3,66.66666666666666
+2024-02-17,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-02-18,Best Study Time,Morning,1,1,100.0
+2024-02-18,Preferred Study Format,In-person,2,2,100.0
+2024-02-19,Best Study Time,Morning,1,1,100.0
+2024-02-19,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-19,Preferred Study Format,In-person,1,1,100.0
+2024-02-20,Best Study Time,Afternoon,3,3,100.0
+2024-02-20,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-02-21,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-21,Preferred Study Format,In-person,1,2,50.0
+2024-02-22,Best Study Time,Evening,1,1,100.0
+2024-02-22,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-22,Preferred Study Format,Online,1,2,50.0
+2024-02-23,Campus Event Interest,Not interested,1,2,50.0
+2024-02-23,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-02-23,Preferred Study Format,In-person,1,1,100.0
+2024-02-24,Best Study Time,Afternoon,1,1,100.0
+2024-02-24,Preferred Study Format,Hybrid,2,2,100.0
+2024-02-25,Best Study Time,Evening,1,1,100.0
+2024-02-25,Campus Event Interest,Somewhat interested,1,3,33.33333333333333
+2024-02-25,Campus Event Interest,Very interested,2,3,66.66666666666666
+2024-02-25,Preferred Study Format,Hybrid,1,2,50.0
+2024-02-25,Preferred Study Format,In-person,1,2,50.0
+2024-02-26,Best Study Time,Afternoon,1,1,100.0
+2024-02-26,Campus Event Interest,Somewhat interested,2,3,66.66666666666666
+2024-02-26,Campus Event Interest,Very interested,1,3,33.33333333333333
+2024-02-26,Preferred Study Format,Hybrid,1,1,100.0
+2024-02-27,Campus Event Interest,Very interested,1,1,100.0
+2024-02-27,Preferred Study Format,In-person,1,1,100.0
+2024-02-28,Preferred Study Format,Hybrid,2,3,66.66666666666666
+2024-02-28,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-02-29,Best Study Time,Afternoon,1,4,25.0
+2024-02-29,Best Study Time,Evening,1,4,25.0
+2024-02-29,Best Study Time,Morning,2,4,50.0
+2024-02-29,Campus Event Interest,Very interested,1,1,100.0
+2024-02-29,Preferred Study Format,Hybrid,1,4,25.0
+2024-02-29,Preferred Study Format,In-person,1,4,25.0
+2024-02-29,Preferred Study Format,Online,2,4,50.0
+2024-03-01,Best Study Time,Morning,1,1,100.0
+2024-03-01,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-03-01,Preferred Study Format,In-person,2,3,66.66666666666666
+2024-03-02,Best Study Time,Evening,1,2,50.0
+2024-03-02,Best Study Time,Morning,1,2,50.0
+2024-03-02,Campus Event Interest,Very interested,1,1,100.0
+2024-03-02,Preferred Study Format,Hybrid,2,2,100.0
+2024-03-03,Best Study Time,Morning,2,2,100.0
+2024-03-03,Preferred Study Format,In-person,3,3,100.0
+2024-03-04,Campus Event Interest,Very interested,2,2,100.0
+2024-03-04,Preferred Study Format,Hybrid,2,5,40.0
+2024-03-04,Preferred Study Format,In-person,2,5,40.0
+2024-03-04,Preferred Study Format,Online,1,5,20.0
+2024-03-05,Campus Event Interest,Very interested,1,1,100.0
+2024-03-05,Preferred Study Format,Hybrid,1,2,50.0
+2024-03-05,Preferred Study Format,In-person,1,2,50.0
+2024-03-06,Campus Event Interest,Somewhat interested,2,3,66.66666666666666
+2024-03-06,Campus Event Interest,Very interested,1,3,33.33333333333333
+2024-03-06,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-03-06,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-03-06,Preferred Study Format,Online,1,3,33.33333333333333
+2024-03-07,Best Study Time,Evening,1,1,100.0
+2024-03-07,Campus Event Interest,Not interested,1,4,25.0
+2024-03-07,Campus Event Interest,Somewhat interested,1,4,25.0
+2024-03-07,Campus Event Interest,Very interested,2,4,50.0
+2024-03-07,Preferred Study Format,Online,1,1,100.0
+2024-03-08,Best Study Time,Afternoon,1,2,50.0
+2024-03-08,Best Study Time,Morning,1,2,50.0
+2024-03-08,Preferred Study Format,Hybrid,2,5,40.0
+2024-03-08,Preferred Study Format,In-person,2,5,40.0
+2024-03-08,Preferred Study Format,Online,1,5,20.0
+2024-03-09,Best Study Time,Afternoon,2,2,100.0
+2024-03-09,Campus Event Interest,Very interested,1,1,100.0
+2024-03-09,Preferred Study Format,In-person,2,2,100.0
+2024-03-10,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-10,Preferred Study Format,Hybrid,2,3,66.66666666666666
+2024-03-10,Preferred Study Format,Online,1,3,33.33333333333333
+2024-03-11,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-11,Preferred Study Format,In-person,1,2,50.0
+2024-03-11,Preferred Study Format,Online,1,2,50.0
+2024-03-12,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-12,Preferred Study Format,Hybrid,1,1,100.0
+2024-03-13,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-13,Preferred Study Format,Hybrid,2,2,100.0
+2024-03-14,Best Study Time,Afternoon,1,2,50.0
+2024-03-14,Best Study Time,Evening,1,2,50.0
+2024-03-14,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-03-14,Campus Event Interest,Very interested,1,2,50.0
+2024-03-14,Preferred Study Format,In-person,1,2,50.0
+2024-03-14,Preferred Study Format,Online,1,2,50.0
+2024-03-15,Best Study Time,Afternoon,1,1,100.0
+2024-03-15,Campus Event Interest,Very interested,2,2,100.0
+2024-03-16,Best Study Time,Evening,1,1,100.0
+2024-03-16,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-03-16,Preferred Study Format,Online,2,3,66.66666666666666
+2024-03-17,Best Study Time,Morning,1,1,100.0
+2024-03-17,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-03-17,Campus Event Interest,Very interested,1,2,50.0
+2024-03-18,Best Study Time,Morning,1,1,100.0
+2024-03-18,Campus Event Interest,Not interested,1,2,50.0
+2024-03-18,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-03-19,Best Study Time,Evening,1,1,100.0
+2024-03-19,Campus Event Interest,Somewhat interested,2,2,100.0
+2024-03-20,Best Study Time,Afternoon,1,2,50.0
+2024-03-20,Best Study Time,Morning,1,2,50.0
+2024-03-20,Campus Event Interest,Very interested,1,1,100.0
+2024-03-20,Preferred Study Format,Hybrid,1,2,50.0
+2024-03-20,Preferred Study Format,Online,1,2,50.0
+2024-03-21,Best Study Time,Evening,1,2,50.0
+2024-03-21,Best Study Time,Morning,1,2,50.0
+2024-03-21,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-03-21,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-03-21,Preferred Study Format,Online,1,3,33.33333333333333
+2024-03-22,Best Study Time,Evening,1,1,100.0
+2024-03-22,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-22,Preferred Study Format,Hybrid,1,2,50.0
+2024-03-22,Preferred Study Format,Online,1,2,50.0
+2024-03-23,Best Study Time,Morning,1,1,100.0
+2024-03-23,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-23,Preferred Study Format,Hybrid,1,1,100.0
+2024-03-24,Best Study Time,Afternoon,1,1,100.0
+2024-03-24,Campus Event Interest,Not interested,1,1,100.0
+2024-03-24,Preferred Study Format,Hybrid,1,2,50.0
+2024-03-24,Preferred Study Format,Online,1,2,50.0
+2024-03-25,Best Study Time,Evening,1,1,100.0
+2024-03-25,Campus Event Interest,Not interested,1,1,100.0
+2024-03-25,Preferred Study Format,Hybrid,1,2,50.0
+2024-03-25,Preferred Study Format,In-person,1,2,50.0
+2024-03-26,Best Study Time,Morning,1,1,100.0
+2024-03-26,Campus Event Interest,Very interested,1,1,100.0
+2024-03-26,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-03-26,Preferred Study Format,Online,2,3,66.66666666666666
+2024-03-27,Best Study Time,Evening,1,1,100.0
+2024-03-28,Best Study Time,Afternoon,1,1,100.0
+2024-03-28,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-03-28,Preferred Study Format,Online,2,2,100.0
+2024-03-29,Best Study Time,Afternoon,1,1,100.0
+2024-03-29,Preferred Study Format,In-person,1,2,50.0
+2024-03-29,Preferred Study Format,Online,1,2,50.0
+2024-03-30,Best Study Time,Afternoon,1,1,100.0
+2024-03-30,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-03-30,Campus Event Interest,Very interested,1,2,50.0
+2024-03-30,Preferred Study Format,In-person,1,1,100.0
+2024-03-31,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-03-31,Campus Event Interest,Very interested,1,2,50.0
+2024-03-31,Preferred Study Format,Online,1,1,100.0
+2024-04-01,Preferred Study Format,Hybrid,2,3,66.66666666666666
+2024-04-01,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-04-02,Best Study Time,Afternoon,1,2,50.0
+2024-04-02,Best Study Time,Morning,1,2,50.0
+2024-04-02,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-02,Campus Event Interest,Very interested,1,2,50.0
+2024-04-02,Preferred Study Format,In-person,1,2,50.0
+2024-04-02,Preferred Study Format,Online,1,2,50.0
+2024-04-03,Best Study Time,Afternoon,2,2,100.0
+2024-04-03,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-04-03,Preferred Study Format,In-person,1,1,100.0
+2024-04-04,Best Study Time,Afternoon,1,1,100.0
+2024-04-04,Campus Event Interest,Not interested,1,1,100.0
+2024-04-04,Preferred Study Format,Online,2,2,100.0
+2024-04-05,Best Study Time,Morning,1,1,100.0
+2024-04-05,Preferred Study Format,Online,1,1,100.0
+2024-04-06,Best Study Time,Morning,1,1,100.0
+2024-04-06,Campus Event Interest,Somewhat interested,2,4,50.0
+2024-04-06,Campus Event Interest,Very interested,2,4,50.0
+2024-04-06,Preferred Study Format,Hybrid,1,4,25.0
+2024-04-06,Preferred Study Format,Online,3,4,75.0
+2024-04-07,Best Study Time,Morning,1,1,100.0
+2024-04-07,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-07,Campus Event Interest,Very interested,1,2,50.0
+2024-04-08,Best Study Time,Evening,1,3,33.33333333333333
+2024-04-08,Best Study Time,Morning,2,3,66.66666666666666
+2024-04-08,Campus Event Interest,Not interested,1,3,33.33333333333333
+2024-04-08,Campus Event Interest,Somewhat interested,1,3,33.33333333333333
+2024-04-08,Campus Event Interest,Very interested,1,3,33.33333333333333
+2024-04-09,Best Study Time,Afternoon,2,4,50.0
+2024-04-09,Best Study Time,Evening,1,4,25.0
+2024-04-09,Best Study Time,Morning,1,4,25.0
+2024-04-09,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-09,Campus Event Interest,Very interested,1,2,50.0
+2024-04-09,Preferred Study Format,Hybrid,1,2,50.0
+2024-04-09,Preferred Study Format,Online,1,2,50.0
+2024-04-10,Best Study Time,Morning,1,1,100.0
+2024-04-10,Campus Event Interest,Not interested,1,2,50.0
+2024-04-10,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-10,Preferred Study Format,Hybrid,1,1,100.0
+2024-04-11,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-11,Campus Event Interest,Very interested,1,2,50.0
+2024-04-11,Preferred Study Format,Hybrid,1,2,50.0
+2024-04-11,Preferred Study Format,In-person,1,2,50.0
+2024-04-12,Best Study Time,Morning,1,1,100.0
+2024-04-12,Preferred Study Format,Hybrid,1,2,50.0
+2024-04-12,Preferred Study Format,Online,1,2,50.0
+2024-04-13,Best Study Time,Afternoon,1,2,50.0
+2024-04-13,Best Study Time,Morning,1,2,50.0
+2024-04-13,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-13,Campus Event Interest,Very interested,1,2,50.0
+2024-04-13,Preferred Study Format,In-person,1,2,50.0
+2024-04-13,Preferred Study Format,Online,1,2,50.0
+2024-04-14,Best Study Time,Afternoon,1,2,50.0
+2024-04-14,Best Study Time,Morning,1,2,50.0
+2024-04-14,Campus Event Interest,Somewhat interested,2,2,100.0
+2024-04-14,Preferred Study Format,Online,1,1,100.0
+2024-04-15,Best Study Time,Evening,1,3,33.33333333333333
+2024-04-15,Best Study Time,Morning,2,3,66.66666666666666
+2024-04-15,Preferred Study Format,In-person,1,1,100.0
+2024-04-16,Campus Event Interest,Not interested,1,1,100.0
+2024-04-16,Preferred Study Format,Hybrid,2,2,100.0
+2024-04-17,Best Study Time,Afternoon,1,2,50.0
+2024-04-17,Best Study Time,Evening,1,2,50.0
+2024-04-17,Campus Event Interest,Somewhat interested,1,2,50.0
+2024-04-17,Campus Event Interest,Very interested,1,2,50.0
+2024-04-17,Preferred Study Format,Online,1,1,100.0
+2024-04-18,Best Study Time,Afternoon,1,1,100.0
+2024-04-18,Preferred Study Format,In-person,1,2,50.0
+2024-04-18,Preferred Study Format,Online,1,2,50.0
+2024-04-19,Best Study Time,Morning,1,1,100.0
+2024-04-19,Campus Event Interest,Somewhat interested,2,2,100.0
+2024-04-19,Preferred Study Format,Hybrid,2,6,33.33333333333333
+2024-04-19,Preferred Study Format,Online,4,6,66.66666666666666
+2024-04-20,Best Study Time,Morning,2,2,100.0
+2024-04-20,Campus Event Interest,Not interested,1,1,100.0
+2024-04-21,Best Study Time,Evening,1,1,100.0
+2024-04-21,Preferred Study Format,Hybrid,1,3,33.33333333333333
+2024-04-21,Preferred Study Format,Online,2,3,66.66666666666666
+2024-04-22,Best Study Time,Evening,1,1,100.0
+2024-04-22,Campus Event Interest,Not interested,1,2,50.0
+2024-04-22,Campus Event Interest,Very interested,1,2,50.0
+2024-04-22,Preferred Study Format,Hybrid,1,2,50.0
+2024-04-22,Preferred Study Format,In-person,1,2,50.0
+2024-04-23,Best Study Time,Afternoon,2,3,66.66666666666666
+2024-04-23,Best Study Time,Morning,1,3,33.33333333333333
+2024-04-23,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-04-24,Best Study Time,Afternoon,1,1,100.0
+2024-04-24,Campus Event Interest,Not interested,1,1,100.0
+2024-04-24,Preferred Study Format,Hybrid,1,2,50.0
+2024-04-24,Preferred Study Format,In-person,1,2,50.0
+2024-04-25,Best Study Time,Evening,2,2,100.0
+2024-04-25,Campus Event Interest,Somewhat interested,1,1,100.0
+2024-04-26,Preferred Study Format,In-person,2,2,100.0
+2024-04-28,Best Study Time,Evening,1,1,100.0
+2024-04-28,Preferred Study Format,In-person,1,3,33.33333333333333
+2024-04-28,Preferred Study Format,Online,2,3,66.66666666666666
+2024-04-29,Campus Event Interest,Very interested,1,1,100.0
+2024-04-29,Preferred Study Format,Hybrid,1,5,20.0
+2024-04-29,Preferred Study Format,In-person,3,5,60.0
+2024-04-29,Preferred Study Format,Online,1,5,20.0
